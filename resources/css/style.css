@@ -1,0 +1,30 @@
+h1 {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+}
+
+.section {
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
+#caption {
+  color: gray;
+  font-size: 21px;
+  font-family: Verdana;
+}
