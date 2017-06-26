@@ -28,3 +28,9 @@ body {
   font-size: 21px;
   font-family: Verdana;
 }
+
+#complete {
+  color: Limegreen;
+  font-size: 14px;
+  font-family: Impact;
+}
